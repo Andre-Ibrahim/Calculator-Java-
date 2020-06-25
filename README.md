@@ -18,17 +18,29 @@ operators available
 
 unary:
   \- , this unary minus sign indicates a negative number
+  
   \! , the factorial sign {factorial method implemented recursively}
+  
 Binary Numerical:
+
   \+ , addition
+  
   \- , negation
+  
   \x , multiplication
+  
   \/ , division
+  
   \^ , power {power method implemented recursively}
+  
 Binary Boolean:
+
   \< , smaller than method
+  
   \> , larger than method
+  
   \<= , smaller or equal method
+  
   \>= , larger or equal method
   
   
